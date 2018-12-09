@@ -1,0 +1,9 @@
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/bin/Debug/netcoreapp2.1/PhysX.Net.deps.json
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/bin/Debug/netcoreapp2.1/PhysX.Net.dll
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/bin/Debug/netcoreapp2.1/PhysX.Net.pdb
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/obj/Debug/netcoreapp2.1/PhysX.Net.csprojAssemblyReference.cache
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/obj/Debug/netcoreapp2.1/PhysX.Net.csproj.CoreCompileInputs.cache
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/obj/Debug/netcoreapp2.1/PhysX.Net.AssemblyInfoInputs.cache
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/obj/Debug/netcoreapp2.1/PhysX.Net.AssemblyInfo.cs
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/obj/Debug/netcoreapp2.1/PhysX.Net.dll
+/home/kewur/Programs/GithubProjects/PhysxCSharp/PhysX.Net/obj/Debug/netcoreapp2.1/PhysX.Net.pdb

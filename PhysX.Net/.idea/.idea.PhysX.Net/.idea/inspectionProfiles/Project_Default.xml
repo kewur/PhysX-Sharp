@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ConstantConditions" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+      <option name="REPORT_UNCHECKED_OPTIONALS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="FieldMayBeFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LocalCanBeFinal" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="REPORT_VARIABLES" value="false" />
+      <option name="REPORT_PARAMETERS" value="true" />
+      <option name="REPORT_CATCH_PARAMETERS" value="false" />
+      <option name="REPORT_FOREACH_PARAMETERS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="UnqualifiedFieldAccess" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnqualifiedMethodAccess" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>

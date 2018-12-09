@@ -1,5 +1,5 @@
-set SWIG_EXE="C:\Program Files\swigwin-3.0.11\swig.exe"
-set PHYSX_INC="C:\Proj\slidewave\moses\PhysX-3.3\PhysXSDK\Include"
+set SWIG_EXE="~/Programs/GithubProjects/Swig/swig"
+set PHYSX_INC="~/Programs/PhysxSdk/PhysX_3.4/Include"
 
 mkdir gen
 %SWIG_EXE% -features autodoc=1 -csharp -c++ -namespace SlideWave.PhysxSharp -I%PHYSX_INC% -outdir gen PhysX.i

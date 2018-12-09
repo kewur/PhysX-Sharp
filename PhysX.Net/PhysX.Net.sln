@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysX.Net", "PhysX.Net.csproj", "{72318532-0986-4E30-B54B-6006038A5109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72318532-0986-4E30-B54B-6006038A5109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72318532-0986-4E30-B54B-6006038A5109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72318532-0986-4E30-B54B-6006038A5109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72318532-0986-4E30-B54B-6006038A5109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
